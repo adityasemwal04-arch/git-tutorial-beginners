@@ -1,6 +1,6 @@
 # The best github repo here
-this is read me
-the best ways are:
+This is read me
+The best ways are:
 - eat 
 - sleep
 - code
